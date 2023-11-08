@@ -1,1 +1,7 @@
-print("me may beo")
+print("me thg duy phc beo")
+print("me thg duy phc beo")
+print("me thg duy phc beo")
+print("me thg duy phc beo")
+print("me thg duy phc beo")
+print("me thg duy phc beo")
+
